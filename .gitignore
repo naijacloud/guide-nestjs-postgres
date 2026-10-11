@@ -1,0 +1,17 @@
+# compiled output
+/dist
+/node_modules
+/build
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+
+# env
+.env
+
+# Prisma client (rebuilt on every build)
+/src/generated/prisma
